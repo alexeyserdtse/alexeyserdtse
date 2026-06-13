@@ -33,6 +33,10 @@ jobs:
             --exclude 'linkedin.com'
             --exclude 'github-readme-stats.vercel.app'
             --exclude 'github-readme-streak-stats.herokuapp.com'
+            --exclude 'github-readme-activity-graph.vercel.app'
+            --exclude 'readme-typing-svg.demolab.com'
+            --exclude 'capsule-render.vercel.app'
             --exclude 'komarev.com'
+            --exclude 'raw.githubusercontent.com/alexeyserdtse/alexeyserdtse/output'
             '**/*.md'
           fail: true

@@ -39,15 +39,15 @@ Design and operate production data platforms — owning pipeline reliability, da
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1B27)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1A1B27)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=1A1B27)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1A1B27)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=1A1B27)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=1A1B27)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&labelColor=1A1B27)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1A1B27)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27)
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/python.svg?color=%232A8BF2" alt="Python"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/postgresql.svg?color=%232A8BF2" alt="SQL"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/snowflake.svg?color=%232A8BF2" alt="Snowflake"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/databricks.svg?color=%232A8BF2" alt="Databricks"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/apachespark.svg?color=%232A8BF2" alt="Apache Spark"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/apacheairflow.svg?color=%232A8BF2" alt="Apache Airflow"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/dbt.svg?color=%232A8BF2" alt="dbt"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%232A8BF2" alt="AWS"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/git.svg?color=%232A8BF2" alt="Git"/>
 
 </div>
 

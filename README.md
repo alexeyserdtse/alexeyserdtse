@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=Data+Engineer+%40+NAYA+Technologies+(EPAM);Snowflake+%E2%80%A2+Databricks+%E2%80%A2+Airflow+%E2%80%A2+dbt;Reliable+pipelines.+Honest+data.+Quiet+3+a.m.s." alt="Typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=Data+Engineer+%40+NAYA+Technologies+(EPAM);Snowflake+%E2%80%A2+Databricks+%E2%80%A2+Airflow+%E2%80%A2+dbt;Reliable+pipelines%2C+clean+and+trustworthy+data." alt="Typing tagline"/>
 
 <br/>
 
@@ -18,8 +18,8 @@
 
 - 🛠️ **Data Engineer** at NAYA Technologies (part of EPAM) — I build data pipelines and lakehouse platforms end to end.
 - ⚡ My stack: **Snowflake**, **Databricks**, **Airflow**, and **dbt** on **AWS**.
-- 🐍 Daily drivers: **Python** and **SQL**.
-- 📊 I care about clean schemas, idempotent jobs, and platforms that stay quiet at 3 a.m.
+- 🐍 Core languages: **Python** and **SQL**.
+- 📊 I care about clean schemas, idempotent jobs, and reliable, well-monitored pipelines.
 - 🌱 ~7 years across the data stack — started in data analysis, grew into data engineering.
 - 📍 Based in Israel.
 

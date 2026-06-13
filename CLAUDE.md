@@ -37,8 +37,9 @@ CI (`.github/workflows/ci.yml`) runs markdownlint + lychee on every push/PR to `
 
 Every visual element shares one navy/blue theme. When adding or editing any widget, match these colors — do not introduce a new theme (the history shows a tokyonight experiment was deliberately replaced by this custom palette):
 
-- Card background `#0E1A2B`, title `#4DA3FF`, icons/accent `#2A8BF2`, text `#C5D2E0`
+- Stat/graph cards share the hero family: background `#1B3E63`, title/accent `#8FD0FF`, icons `#9FC7EC`, text `#C7D8E8`, highlights `#F2F7FC`, `border_radius`/`radius` `18` (echoes the hero's rounded corners)
 - Hero gradient `#2E6498 → #1B3E63`, hero accents `#8FD0FF` / `#9FD0FF`
+- Cards are sized to fit the row width (two top cards `width="49%"`, activity graph `width="100%"`) to match the full-width hero
 
 A change that adds a stats/streak/graph card or badge with mismatched theme params is wrong even if it renders. Keep stats, streak, activity graph, and hero visually consistent.
 

@@ -48,7 +48,7 @@
 
 Building pipelines and lakehouse platforms on Spark, Databricks, Airflow, and dbt. <!-- placeholder: add dates + 3–5 impact bullets (scale, cost/runtime saved, SLAs) -->
 
-#### Certifications
+### Certifications
 
 - Associate Data Engineer — DataCamp (2025)
 - SQL Server Developer — DataCamp (2021)

@@ -31,8 +31,7 @@
     <circle cx="920" cy="125" r="8" fill="#8FD0FF" stroke="#DCEEFF" stroke-width="2.5"/>
   </g>
 
-  <circle cx="68" cy="79" r="4" fill="url(#accent)"/>
-  <text x="84" y="84" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="14" letter-spacing="3" fill="#9FD0FF">DATA ENGINEER</text>
+  <text x="64" y="84" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="14" letter-spacing="3" fill="#9FD0FF">// DATA ENGINEER</text>
 
   <text x="62" y="144" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="600" fill="#F2F7FC">Alexey Serdtse</text>
   <text x="64" y="184" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#C7D8E8">I build reliable data platforms that turn raw events into clear decisions.</text>

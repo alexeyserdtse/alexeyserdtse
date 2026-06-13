@@ -30,6 +30,7 @@ jobs:
         with:
           args: >-
             --no-progress
+            --exclude 'linkedin.com'
             --exclude 'github-readme-stats.vercel.app'
             --exclude 'github-readme-streak-stats.herokuapp.com'
             --exclude 'komarev.com'

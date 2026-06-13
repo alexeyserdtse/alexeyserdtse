@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=Data+Engineer+%40+NAYA+Technologies+(EPAM);Snowflake+%E2%80%A2+Databricks+%E2%80%A2+Airflow+%E2%80%A2+dbt;Reliable+pipelines%2C+clean+and+trustworthy+data." alt="Typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=2A8BF2&center=true&vCenter=true&width=620&lines=Data+Engineer+%40+NAYA+Technologies+(EPAM);Snowflake+%E2%80%A2+Databricks+%E2%80%A2+Airflow+%E2%80%A2+dbt;Reliable+pipelines%2C+clean+and+trustworthy+data." alt="Typing tagline"/>
 
 <br/>
 
@@ -25,9 +25,9 @@
 
 ## 💼 Experience
 
-**Data Engineer** · NAYA Technologies (part of EPAM) — Israel
+**Data Engineer** · NAYA Technologies (part of EPAM) — Israel · ~7 yrs in data
 
-Designing and operating data pipelines and lakehouse platforms on Snowflake, Databricks, Airflow, and dbt — running on AWS. ~7 years across the stack, from data analysis into engineering.
+Design and operate production data platforms — owning pipeline reliability, data modeling, and monitoring — and partner with analytics and stakeholders to turn raw sources into trusted, decision-ready datasets.
 
 ### Certifications
 
@@ -65,5 +65,5 @@ Designing and operating data pipelines and lakehouse platforms on Snowflake, Dat
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2A8BF2&height=100&section=footer" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6498,100:1B3E63&height=100&section=footer" alt="" width="100%"/>
 </div>

@@ -39,14 +39,14 @@ Design and operate production data platforms — owning pipeline reliability, da
 
 <div align="center">
 
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/python.svg?color=%232A8BF2" alt="Python"/>&nbsp;&nbsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/postgresql.svg?color=%232A8BF2" alt="SQL"/>&nbsp;&nbsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/snowflake.svg?color=%232A8BF2" alt="Snowflake"/>&nbsp;&nbsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/databricks.svg?color=%232A8BF2" alt="Databricks"/>&nbsp;&nbsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/apachespark.svg?color=%232A8BF2" alt="Apache Spark"/>&nbsp;&nbsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/apacheairflow.svg?color=%232A8BF2" alt="Apache Airflow"/>&nbsp;&nbsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/dbt.svg?color=%232A8BF2" alt="dbt"/>&nbsp;&nbsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%232A8BF2" alt="AWS"/>&nbsp;&nbsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/python.svg?color=%232A8BF2" alt="Python"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/postgresql.svg?color=%232A8BF2" alt="SQL"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/snowflake.svg?color=%232A8BF2" alt="Snowflake"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/databricks.svg?color=%232A8BF2" alt="Databricks"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/apachespark.svg?color=%232A8BF2" alt="Apache Spark"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/apacheairflow.svg?color=%232A8BF2" alt="Apache Airflow"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/dbt.svg?color=%232A8BF2" alt="dbt"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%232A8BF2" alt="AWS"/>&emsp;
 <img width="48" height="48" src="https://api.iconify.design/simple-icons/git.svg?color=%232A8BF2" alt="Git"/>
 
 </div>

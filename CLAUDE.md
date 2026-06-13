@@ -18,7 +18,7 @@ npx markdownlint-cli2 "**/*.md"
 npx lychee --no-progress \
   --exclude 'linkedin.com' \
   --exclude 'github-readme-stats.vercel.app' \
-  --exclude 'github-readme-streak-stats.herokuapp.com' \
+  --exclude 'streak-stats.demolab.com' \
   --exclude 'github-readme-activity-graph.vercel.app' \
   --exclude 'readme-typing-svg.demolab.com' \
   --exclude 'capsule-render.vercel.app' \

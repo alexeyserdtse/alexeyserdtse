@@ -33,7 +33,6 @@ jobs:
             --exclude 'linkedin.com'
             --exclude 'github-readme-stats.vercel.app'
             --exclude 'streak-stats.demolab.com'
-            --exclude 'ghchart.rshah.org'
             --exclude 'readme-typing-svg.demolab.com'
             --exclude 'capsule-render.vercel.app'
             --exclude 'komarev.com'

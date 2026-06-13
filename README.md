@@ -25,9 +25,19 @@
 
 ## 💼 Experience
 
-**Data Engineer** · NAYA Technologies (part of EPAM) — Israel · ~7 yrs in data
+**Big Data Engineer** · NAYA Technologies (part of EPAM) — Israel · Feb 2026 – Present
 
-Design and operate production data platforms — owning pipeline reliability, data modeling, and monitoring — and partner with analytics and stakeholders to turn raw sources into trusted, decision-ready datasets.
+Building data solutions on **Databricks** and **AWS**.
+
+**Data Engineer** · NICE Ltd (via Outstaff) — Ra'anana, Israel · Sep 2022 – Feb 2026
+
+Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as the SSIS specialist and grew into Snowflake administration, cross-team coordination, and mentorship.
+
+- Built and owned dozens of ingestion pipelines from APIs, S3, SharePoint, and internal/external databases.
+- Rewrote a dbt analytics pipeline, cutting runtime from **30 min to 6**.
+- Built reusable Python classes and Airflow patterns adopted across the team; managed Fivetran connectors.
+- Owned Snowflake administration & governance — roles, access, and production deployments; used Snowflake Cortex to fix query bottlenecks.
+- Led the on-prem → cloud migration: ran the AWS-vs-Azure POC, audited hundreds of data processes, and drove phased waves through post-migration validation.
 
 ### Certifications
 

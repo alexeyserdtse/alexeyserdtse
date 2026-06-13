@@ -19,7 +19,7 @@ npx lychee --no-progress \
   --exclude 'linkedin.com' \
   --exclude 'github-readme-stats.vercel.app' \
   --exclude 'streak-stats.demolab.com' \
-  --exclude 'github-readme-activity-graph.vercel.app' \
+  --exclude 'ghchart.rshah.org' \
   --exclude 'readme-typing-svg.demolab.com' \
   --exclude 'capsule-render.vercel.app' \
   --exclude 'komarev.com' \
@@ -39,7 +39,7 @@ Every visual element shares one navy/blue theme. When adding or editing any widg
 
 - Stat/graph cards share the hero family: background `#1B3E63`, title/accent `#8FD0FF`, icons `#9FC7EC`, text `#C7D8E8`, highlights `#F2F7FC`, `border_radius`/`radius` `18` (echoes the hero's rounded corners)
 - Hero gradient `#2E6498 → #1B3E63`, hero accents `#8FD0FF` / `#9FD0FF`
-- Top two cards use an equal fixed `height="170"` (NOT `width`) so they align flush side by side; the activity graph is `width="100%"`. The stats card hides zero/irrelevant metrics (`hide=stars,issues,contribs`) and shows commits/PRs/PRs-merged
+- Top two cards use an equal fixed `height="170"` (NOT `width`) so they align flush side by side; below them the full-year contribution calendar (`ghchart.rshah.org`, has month labels) is `width="100%"`. The stats card hides zero/irrelevant metrics (`hide=stars,issues,contribs`) and shows commits/PRs/PRs-merged
 - Do NOT add `include_all_commits=true` to the stats card — it triggers the rate-limited commit-search API and reliably fails with "Could not fetch total commits". Use the reliable Vercel streak host `streak-stats.demolab.com`, never the Heroku one
 
 A change that adds a stats/streak/graph card or badge with mismatched theme params is wrong even if it renders. Keep stats, streak, activity graph, and hero visually consistent.

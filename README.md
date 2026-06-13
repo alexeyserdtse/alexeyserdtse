@@ -62,7 +62,7 @@ Designing and operating data pipelines and lakehouse platforms on Snowflake, Dat
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexeyserdtse&show_icons=true&hide_border=true&border_radius=18&count_private=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&bg_color=1B3E63&title_color=8FD0FF&icon_color=9FC7EC&text_color=C7D8E8" alt="GitHub stats"/>
 <img height="170" src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0" alt="GitHub streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alexeyserdtse&custom_title=Contribution%20Activity&hide_border=true&radius=18&area=true&bg_color=1B3E63&color=C7D8E8&title_color=8FD0FF&line=8FD0FF&point=F2F7FC&area_color=2E6498" alt="Contribution activity graph"/>
+<img width="100%" src="https://ghchart.rshah.org/2A8BF2/alexeyserdtse" alt="Alexey Serdtse's GitHub contribution calendar (last year, by month)"/>
 
 </div>
 

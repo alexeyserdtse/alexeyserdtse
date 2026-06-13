@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=2A8BF2&center=true&vCenter=true&width=620&lines=Data+Engineer+%40+NAYA+Technologies+(EPAM);Snowflake+%E2%80%A2+Databricks+%E2%80%A2+Airflow+%E2%80%A2+dbt;Reliable+pipelines%2C+clean+and+trustworthy+data." alt="Typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=2A8BF2&center=true&vCenter=true&width=660&lines=Big+Data+Engineer+%40+NAYA+Technologies+(EPAM);Snowflake+%E2%80%A2+Databricks+%E2%80%A2+Spark+%E2%80%A2+Airflow+%E2%80%A2+dbt;Reliable+pipelines%2C+clean+and+trustworthy+data." alt="Typing tagline"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🛠️ **Data Engineer** at NAYA Technologies (part of EPAM) — I build data pipelines and lakehouse platforms end to end.
+- 🛠️ **Big Data Engineer** at NAYA Technologies (part of EPAM) — I build data pipelines and lakehouse platforms end to end.
 - ⚡ Core stack: **Snowflake**, **Databricks**, **Spark**, **Airflow**, and **dbt**, on an **AWS** data lake (**S3**).
 - 🐍 Primary languages **Python** (including **PySpark**) and **SQL**, applied across ingestion, orchestration, transformation, and query optimization.
 - 📊 Focused on clean schemas, idempotent jobs, and reliable, well-monitored pipelines.

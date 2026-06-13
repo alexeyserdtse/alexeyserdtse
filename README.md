@@ -21,6 +21,19 @@
 - 🐍 Daily drivers: **Python** and **SQL**.
 - 📊 I care about clean schemas, idempotent jobs, and platforms that stay quiet at 3 a.m.
 - 🌱 ~7 years across the data stack — started in data analysis, grew into data engineering.
+- 📍 Based in Israel.
+
+## 💼 Experience
+
+**Data Engineer** · NAYA Technologies (part of EPAM) — Israel
+
+Designing and operating data pipelines and lakehouse platforms on Snowflake, Databricks, Airflow, and dbt — running on AWS. ~7 years across the stack, from data analysis into engineering.
+
+### Certifications
+
+- Associate Data Engineer — DataCamp (2025)
+- SQL Server Developer — DataCamp (2021)
+- BI Developer — Technion (2019)
 
 ## 🛠️ Tech Stack
 
@@ -38,18 +51,6 @@
 
 </div>
 
-## 💼 Experience
-
-**Data Engineer** · NAYA Technologies (part of EPAM Systems) — Israel
-
-Building pipelines and lakehouse platforms on Spark, Databricks, Airflow, and dbt. <!-- placeholder: add dates + 3–5 impact bullets (scale, cost/runtime saved, SLAs) -->
-
-### Certifications
-
-- Associate Data Engineer — DataCamp (2025)
-- SQL Server Developer — DataCamp (2021)
-- BI Developer — Technion (2019)
-
 ## 📌 Featured Project
 
 **[UdemyFormula1](https://github.com/alexeyserdtse/UdemyFormula1)** — an Azure Databricks + Spark pipeline that ingests Formula 1 race data and models it through a bronze → silver → gold lakehouse architecture.
@@ -58,12 +59,12 @@ Building pipelines and lakehouse platforms on Spark, Databricks, Airflow, and db
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexeyserdtse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alexeyserdtse&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexeyserdtse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0E1A2B&title_color=4DA3FF&icon_color=2A8BF2&text_color=C5D2E0" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alexeyserdtse&hide_border=true&background=0E1A2B&stroke=1E3A5F&ring=2A8BF2&fire=4DA3FF&currStreakNum=C5D2E0&sideNums=C5D2E0&currStreakLabel=4DA3FF&sideLabels=9FB3C8&dates=7A8CA0" alt="GitHub streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyserdtse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyserdtse&layout=compact&hide_border=true&langs_count=8&bg_color=0E1A2B&title_color=4DA3FF&text_color=C5D2E0" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexeyserdtse&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexeyserdtse&hide_border=true&area=true&bg_color=0E1A2B&color=C5D2E0&title_color=4DA3FF&line=2A8BF2&point=7CC0FF&area_color=2A8BF2" alt="Activity graph" width="95%"/>
 
 </div>
 

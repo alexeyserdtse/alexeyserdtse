@@ -28,5 +28,5 @@
   <text x="64" y="86" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="15" letter-spacing="3" fill="#4DA3FF">// DATA ENGINEER</text>
   <text x="62" y="148" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="700" fill="#F4F8FC">Alexey Serdtse</text>
   <text x="64" y="188" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#9FB3C8">I build reliable data platforms that turn raw events into decisions.</text>
-  <text x="64" y="222" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5B7186">python · sql · spark · databricks · airflow · dbt · azure</text>
+  <text x="64" y="222" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5B7186">python · sql · snowflake · databricks · airflow · dbt · aws</text>
 </svg>

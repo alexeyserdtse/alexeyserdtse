@@ -62,19 +62,7 @@ Designing and operating data pipelines and lakehouse platforms on Snowflake, Dat
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexeyserdtse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0E1A2B&title_color=4DA3FF&icon_color=2A8BF2&text_color=C5D2E0" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alexeyserdtse&hide_border=true&background=0E1A2B&stroke=1E3A5F&ring=2A8BF2&fire=4DA3FF&currStreakNum=C5D2E0&sideNums=C5D2E0&currStreakLabel=4DA3FF&sideLabels=9FB3C8&dates=7A8CA0" alt="GitHub streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyserdtse&layout=compact&hide_border=true&langs_count=8&bg_color=0E1A2B&title_color=4DA3FF&text_color=C5D2E0" alt="Top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexeyserdtse&hide_border=true&area=true&bg_color=0E1A2B&color=C5D2E0&title_color=4DA3FF&line=2A8BF2&point=7CC0FF&area_color=2A8BF2" alt="Activity graph" width="95%"/>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexeyserdtse/alexeyserdtse/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexeyserdtse/alexeyserdtse/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/alexeyserdtse/alexeyserdtse/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexeyserdtse&custom_title=Contribution%20Activity&hide_border=true&area=true&bg_color=0E1A2B&color=C5D2E0&title_color=4DA3FF&line=2A8BF2&point=7CC0FF&area_color=2A8BF2" alt="Contribution activity graph" width="95%"/>
 
 </div>
 

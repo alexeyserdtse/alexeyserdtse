@@ -37,6 +37,5 @@ jobs:
             --exclude 'readme-typing-svg.demolab.com'
             --exclude 'capsule-render.vercel.app'
             --exclude 'komarev.com'
-            --exclude 'raw.githubusercontent.com/alexeyserdtse/alexeyserdtse/output'
             '**/*.md'
           fail: true

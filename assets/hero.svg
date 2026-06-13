@@ -1,32 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Alexey Serdtse — Data Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0E1A2B"/>
-      <stop offset="1" stop-color="#0A1018"/>
+      <stop offset="0" stop-color="#2E6498"/>
+      <stop offset="1" stop-color="#1B3E63"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2A8BF2"/>
-      <stop offset="1" stop-color="#0A66C2"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8FD0FF"/>
+      <stop offset="1" stop-color="#5FA8E8"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0.22" cy="0.12" r="0.65">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <rect width="1000" height="250" rx="16" fill="url(#bg)"/>
-  <rect width="7" height="250" fill="url(#accent)"/>
+  <rect width="1000" height="250" rx="20" fill="url(#bg)"/>
+  <rect width="1000" height="250" rx="20" fill="url(#glow)"/>
 
-  <!-- pipeline motif -->
-  <g opacity="0.85">
-    <line x1="792" y1="125" x2="858" y2="85"  stroke="#214A77" stroke-width="2"/>
-    <line x1="792" y1="125" x2="858" y2="165" stroke="#214A77" stroke-width="2"/>
-    <line x1="858" y1="85"  x2="924" y2="125" stroke="#214A77" stroke-width="2"/>
-    <line x1="858" y1="165" x2="924" y2="125" stroke="#214A77" stroke-width="2"/>
-    <circle cx="792" cy="125" r="9" fill="#0E1A2B" stroke="#2A8BF2" stroke-width="2.5"/>
-    <circle cx="858" cy="85"  r="9" fill="#0E1A2B" stroke="#4DA3FF" stroke-width="2.5"/>
-    <circle cx="858" cy="165" r="9" fill="#0E1A2B" stroke="#4DA3FF" stroke-width="2.5"/>
-    <circle cx="924" cy="125" r="9" fill="#2A8BF2" stroke="#7CC0FF" stroke-width="2.5"/>
+  <!-- soft pipeline motif -->
+  <g fill="none" stroke="#9FC7EC" stroke-opacity="0.45" stroke-width="2.5" stroke-linecap="round">
+    <path d="M792 125 C 820 105, 832 95, 856 88"/>
+    <path d="M792 125 C 820 145, 832 155, 856 162"/>
+    <path d="M856 88 C 884 95, 898 108, 920 125"/>
+    <path d="M856 162 C 884 155, 898 142, 920 125"/>
+  </g>
+  <g>
+    <circle cx="792" cy="125" r="8" fill="#1B3E63" stroke="#9FD0FF" stroke-width="2.5"/>
+    <circle cx="856" cy="88"  r="8" fill="#1B3E63" stroke="#BFE0FF" stroke-width="2.5"/>
+    <circle cx="856" cy="162" r="8" fill="#1B3E63" stroke="#BFE0FF" stroke-width="2.5"/>
+    <circle cx="920" cy="125" r="8" fill="#8FD0FF" stroke="#DCEEFF" stroke-width="2.5"/>
   </g>
 
-  <text x="64" y="86" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="15" letter-spacing="3" fill="#4DA3FF">// DATA ENGINEER</text>
-  <text x="62" y="148" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="700" fill="#F4F8FC">Alexey Serdtse</text>
-  <text x="64" y="188" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#9FB3C8">I build reliable data platforms that turn raw events into decisions.</text>
-  <text x="64" y="222" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5B7186">python · sql · snowflake · databricks · airflow · dbt · aws</text>
+  <circle cx="68" cy="79" r="4" fill="url(#accent)"/>
+  <text x="84" y="84" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="14" letter-spacing="3" fill="#9FD0FF">DATA ENGINEER</text>
+
+  <text x="62" y="144" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="600" fill="#F2F7FC">Alexey Serdtse</text>
+  <text x="64" y="184" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#C7D8E8">I build reliable data platforms that turn raw events into clear decisions.</text>
+  <text x="64" y="218" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#8FA8C0">python · sql · snowflake · databricks · airflow · dbt · aws</text>
 </svg>

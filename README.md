@@ -3,15 +3,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexey-serdtse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="./assets/linkedin.svg" alt="LinkedIn" height="42"/>
   </a>
   &nbsp;
   <a href="mailto:alexeyserdtse90@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+    <img src="./assets/email.svg" alt="Email" height="42"/>
   </a>
   &nbsp;
   <a href="https://github.com/alexeyserdtse">
-    <img src="https://img.shields.io/badge/GitHub-2B3137?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+    <img src="./assets/github.svg" alt="GitHub" height="42"/>
   </a>
 </p>
 
@@ -24,6 +24,20 @@
 - 🐍 My daily drivers are **Python** and **SQL**.
 - 📊 I care about clean schemas, idempotent jobs, and pipelines you can trust at 3 AM.
 - 🌱 Always learning — currently deepening my work with distributed processing and cloud data platforms.
+
+---
+
+### 💼 Experience
+
+**Data Engineer** · NAYA Technologies (part of EPAM Systems) — Israel
+
+~7 years across the data stack, starting in data analysis and growing into data engineering — building pipelines and lakehouse platforms on Spark, Databricks, Airflow, and dbt.
+
+#### Certifications
+
+- Associate Data Engineer — DataCamp (2025)
+- SQL Server Developer — DataCamp (2021)
+- BI Developer — Technion (2019)
 
 ---
 

@@ -2,17 +2,9 @@
 <h3 align="center">Data Engineer — building reliable pipelines that turn raw data into decisions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexey-serdtse/">
-    <img src="./assets/linkedin.svg" alt="LinkedIn" height="42"/>
-  </a>
-  &nbsp;
-  <a href="mailto:alexeyserdtse90@gmail.com">
-    <img src="./assets/email.svg" alt="Email" height="42"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/alexeyserdtse">
-    <img src="./assets/github.svg" alt="GitHub" height="42"/>
-  </a>
+  <a href="https://www.linkedin.com/in/alexey-serdtse/"><img src="./assets/linkedin.svg" alt="LinkedIn" height="40"/></a>
+  <a href="mailto:alexeyserdtse90@gmail.com"><img src="./assets/email.svg" alt="Email" height="40"/></a>
+  <a href="https://github.com/alexeyserdtse"><img src="./assets/github.svg" alt="GitHub" height="40"/></a>
 </p>
 
 ---

@@ -33,7 +33,7 @@
 
 ~7 years across the data stack, starting in data analysis and growing into data engineering — building pipelines and lakehouse platforms on Spark, Databricks, Airflow, and dbt.
 
-**Certifications**
+#### Certifications
 
 - Associate Data Engineer — DataCamp (2025)
 - SQL Server Developer — DataCamp (2021)

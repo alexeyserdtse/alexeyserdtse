@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Alexey Serdtse — Big Data Engineer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg"/>
+  <img src="./assets/hero.svg" alt="Alexey Serdtse — Big Data Engineer" width="100%"/>
+</picture>
 
 <br/>
 
@@ -63,12 +66,22 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
 
 ## 📌 Featured Project
 
-**[UdemyFormula1](https://github.com/alexeyserdtse/UdemyFormula1)** — an Azure Databricks + Spark pipeline that ingests Formula 1 race data and models it through a bronze → silver → gold lakehouse architecture.
+<div align="center">
+  <a href="https://github.com/alexeyserdtse/UdemyFormula1">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-card-light.svg"/>
+      <img src="./assets/project-card.svg" alt="UdemyFormula1 — an Azure Databricks + Spark pipeline that ingests Formula 1 race data and models it through a bronze → silver → gold lakehouse architecture" width="90%"/>
+    </picture>
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260726" alt="GitHub streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=F8FBFE&stroke=C7D8E8&ring=2E6498&fire=2A8BF2&currStreakNum=1B3E63&sideNums=1B3E63&currStreakLabel=2E6498&sideLabels=2E6498&dates=8FA8C0&cache_bust=20260726"/>
+    <img src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260726" alt="GitHub streak"/>
+  </picture>
 </div>
 
 <div align="center">

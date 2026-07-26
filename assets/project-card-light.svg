@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-label="UdemyFormula1 — Azure Databricks and Spark lakehouse pipeline for Formula 1 race data">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8FBFE"/>
+      <stop offset="1" stop-color="#E4EEF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#2A8BF2" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#2A8BF2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="150" rx="18" fill="url(#bg)"/>
+  <rect width="800" height="150" rx="18" fill="url(#glow)"/>
+  <rect x="0.75" y="0.75" width="798.5" height="148.5" rx="17.25" fill="none" stroke="#C7D8E8" stroke-width="1.5"/>
+
+  <!-- medallion motif: bronze → silver → gold, in palette blues -->
+  <g fill="none" stroke="#2A8BF2" stroke-opacity="0.45" stroke-width="2.5" stroke-linecap="round">
+    <path d="M629 66 H 661"/>
+    <path d="M679 66 H 711"/>
+  </g>
+  <circle cx="620" cy="66" r="9" fill="#2E6498" stroke="#5FA8E8" stroke-width="2"/>
+  <circle cx="670" cy="66" r="9" fill="#5FA8E8" stroke="#8FD0FF" stroke-width="2"/>
+  <circle cx="720" cy="66" r="9" fill="#8FD0FF" stroke="#BFE0FF" stroke-width="2"/>
+  <g font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="10" fill="#8FA8C0" text-anchor="middle">
+    <text x="620" y="94">bronze</text>
+    <text x="670" y="94">silver</text>
+    <text x="720" y="94">gold</text>
+  </g>
+
+  <text x="758" y="42" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#2A8BF2">↗</text>
+
+  <text x="48" y="58" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="600" fill="#1B3E63">UdemyFormula1</text>
+  <text x="48" y="90" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#2E6498">Formula 1 race data, ingested and modeled into a lakehouse.</text>
+  <text x="48" y="120" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="12.5" letter-spacing="1" fill="#8FA8C0">azure databricks · pyspark · delta lake</text>
+</svg>

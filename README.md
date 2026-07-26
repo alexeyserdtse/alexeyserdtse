@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg"/>
-  <img src="./assets/hero.svg" alt="Alexey Serdtse — Big Data Engineer" width="100%"/>
-</picture>
+<img src="./assets/hero.svg" alt="Alexey Serdtse — Big Data Engineer" width="100%"/>
 
 <br/>
 
@@ -68,10 +65,7 @@ Part of a 6-person data engineering team running a **130 TB Snowflake data wareh
 
 <div align="center">
   <a href="https://github.com/alexeyserdtse/hm_retail_analytics">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/project-card-light.svg"/>
-      <img src="./assets/project-card.svg" alt="hm_retail_analytics — a dbt + DuckDB dimensional warehouse over 31.8M H&M transactions, modeled as a Kimball star with SCD2 price history and orchestrated by Airflow" width="90%"/>
-    </picture>
+    <img src="./assets/project-card.svg" alt="hm_retail_analytics — a dbt + DuckDB dimensional warehouse over 31.8M H&M transactions, modeled as a Kimball star with SCD2 price history and orchestrated by Airflow" width="90%"/>
   </a>
 </div>
 

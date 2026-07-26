@@ -19,34 +19,12 @@
 
 ## 🚀 About Me
 
-- 🛠️ **Big Data Engineer** at NAYA Technologies (part of EPAM) — I build data pipelines and lakehouse platforms end to end.
-- ⚡ Core stack: **Snowflake**, **Databricks**, **Spark**, **Airflow**, and **dbt**, on an **AWS** data lake (**S3**).
-- 🐍 **Python** (including **PySpark**) and **SQL** — from ingestion and orchestration to query tuning.
-- 📊 I care about clean schemas, idempotent jobs, and pipelines that don't need babysitting.
-- 🌱 ~7 years across the data stack — started in data analysis, grew into data engineering.
+- 🛠️ **Big Data Engineer** at NAYA Technologies (part of EPAM) — I design and run **ETL/ELT pipelines** and **lakehouse platforms** end to end.
+- ⚡ Core stack: **Snowflake**, **Databricks**, **Apache Spark**, **Apache Airflow**, and **dbt**, on an **AWS** data lake (**S3**).
+- 🐍 **Python** (including **PySpark**) and **SQL** — data ingestion, orchestration, **data modeling**, and query tuning.
+- 📊 I care about clean schemas, **data quality**, idempotent jobs, and pipelines that don't need babysitting.
+- 🌱 ~7 years across the data stack — started in data analysis, grew into **data engineering**.
 - 📍 Based in Israel.
-
-## 💼 Experience
-
-**Big Data Engineer** · NAYA Technologies (part of EPAM) — Israel · Feb 2026 – Present
-
-Building lakehouse platforms on **Databricks** and **AWS**.
-
-**Data Engineer** · NICE Ltd (via Outstaff) — Ra'anana, Israel · Sep 2022 – Feb 2026
-
-Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as the SSIS specialist and grew into Snowflake administration, cross-team coordination, and mentorship.
-
-- Built and owned dozens of ingestion pipelines from APIs, S3, SharePoint, and internal/external databases.
-- Rewrote a dbt analytics pipeline, cutting runtime from **30 min to 6**.
-- Wrote reusable Python classes and Airflow patterns the team adopted; managed Fivetran connectors.
-- Owned Snowflake administration & governance — roles, access, and production deployments; used Snowflake Cortex to fix query bottlenecks.
-- Led the on-prem → cloud migration: ran the AWS-vs-Azure POC, audited hundreds of data processes, and drove phased waves through post-migration validation.
-
-### Certifications
-
-- Associate Data Engineer — DataCamp (2025)
-- SQL Server Developer — DataCamp (2021)
-- BI Developer — Technion (2019)
 
 ## 🛠️ Tech Stack
 
@@ -64,6 +42,28 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
 
 </div>
 
+## 💼 Experience
+
+**Big Data Engineer** · NAYA Technologies (part of EPAM) — Israel · Feb 2026 – Present
+
+Designing and building **lakehouse data platforms** on **Databricks** and **AWS**.
+
+**Data Engineer** · NICE Ltd (via Outstaff) — Ra'anana, Israel · Sep 2022 – Feb 2026
+
+Part of a 6-person data engineering team running a **130 TB Snowflake data warehouse** — joined as the **SSIS** specialist and grew into Snowflake administration, cross-team coordination, and mentorship.
+
+- Built and owned dozens of **ETL/ELT ingestion pipelines** from APIs, S3, SharePoint, and internal/external databases.
+- Rewrote a **dbt** analytics pipeline, cutting runtime from **30 min to 6**.
+- Wrote reusable **Python** classes and **Airflow** orchestration patterns the team adopted; managed **Fivetran** connectors.
+- Owned **Snowflake administration & data governance** — roles, access control (RBAC), and production deployments; used **Snowflake Cortex** to fix query bottlenecks.
+- Led the **on-prem → AWS cloud migration**: ran the AWS-vs-Azure POC, audited hundreds of data processes, and drove phased migration waves through post-migration data validation.
+
+### Certifications
+
+- Associate Data Engineer — DataCamp (2025)
+- SQL Server Developer — DataCamp (2021)
+- BI Developer — Technion (2019)
+
 ## 📌 Featured Project
 
 <div align="center">
@@ -73,15 +73,6 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
       <img src="./assets/project-card.svg" alt="hm_retail_analytics — a dbt + DuckDB dimensional warehouse over 31.8M H&M transactions, modeled as a Kimball star with SCD2 price history and orchestrated by Airflow" width="90%"/>
     </picture>
   </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=F8FBFE&stroke=C7D8E8&ring=2E6498&fire=2A8BF2&currStreakNum=1B3E63&sideNums=1B3E63&currStreakLabel=2E6498&sideLabels=2E6498&dates=8FA8C0&cache_bust=20260726"/>
-    <img src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260726" alt="GitHub streak"/>
-  </picture>
 </div>
 
 <div align="center">

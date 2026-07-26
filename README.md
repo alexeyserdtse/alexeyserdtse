@@ -67,10 +67,10 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
 ## 📌 Featured Project
 
 <div align="center">
-  <a href="https://github.com/alexeyserdtse/UdemyFormula1">
+  <a href="https://github.com/alexeyserdtse/hm_retail_analytics">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./assets/project-card-light.svg"/>
-      <img src="./assets/project-card.svg" alt="UdemyFormula1 — an Azure Databricks + Spark pipeline that ingests Formula 1 race data and models it through a bronze → silver → gold lakehouse architecture" width="90%"/>
+      <img src="./assets/project-card.svg" alt="hm_retail_analytics — a dbt + DuckDB dimensional warehouse over 31.8M H&M transactions, modeled as a Kimball star with SCD2 price history and orchestrated by Airflow" width="90%"/>
     </picture>
   </a>
 </div>

@@ -19,11 +19,11 @@
 
 ## 🚀 About Me
 
-- 🛠️ **Big Data Engineer** at NAYA Technologies (part of EPAM) — I build data pipelines and lakehouse platforms end to end.
-- ⚡ Core stack: **Snowflake**, **Databricks**, **Spark**, **Airflow**, and **dbt**, on an **AWS** data lake (**S3**).
-- 🐍 **Python** (including **PySpark**) and **SQL** — from ingestion and orchestration to query tuning.
-- 📊 I care about clean schemas, idempotent jobs, and pipelines that don't need babysitting.
-- 🌱 ~7 years across the data stack — started in data analysis, grew into data engineering.
+- 🛠️ **Big Data Engineer** at NAYA Technologies (part of EPAM) — I design and run **ETL/ELT pipelines** and **lakehouse platforms** end to end.
+- ⚡ Core stack: **Snowflake**, **Databricks**, **Apache Spark**, **Apache Airflow**, and **dbt**, on an **AWS** data lake (**S3**).
+- 🐍 **Python** (including **PySpark**) and **SQL** — data ingestion, orchestration, **data modeling**, and query tuning.
+- 📊 I care about clean schemas, **data quality**, idempotent jobs, and pipelines that don't need babysitting.
+- 🌱 ~7 years across the data stack — started in data analysis, grew into **data engineering**.
 - 📍 Based in Israel.
 
 ## 🛠️ Tech Stack
@@ -46,17 +46,17 @@
 
 **Big Data Engineer** · NAYA Technologies (part of EPAM) — Israel · Feb 2026 – Present
 
-Building lakehouse platforms on **Databricks** and **AWS**.
+Designing and building **lakehouse data platforms** on **Databricks** and **AWS**.
 
 **Data Engineer** · NICE Ltd (via Outstaff) — Ra'anana, Israel · Sep 2022 – Feb 2026
 
-Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as the SSIS specialist and grew into Snowflake administration, cross-team coordination, and mentorship.
+Part of a 6-person data engineering team running a **130 TB Snowflake data warehouse** — joined as the **SSIS** specialist and grew into Snowflake administration, cross-team coordination, and mentorship.
 
-- Built and owned dozens of ingestion pipelines from APIs, S3, SharePoint, and internal/external databases.
-- Rewrote a dbt analytics pipeline, cutting runtime from **30 min to 6**.
-- Wrote reusable Python classes and Airflow patterns the team adopted; managed Fivetran connectors.
-- Owned Snowflake administration & governance — roles, access, and production deployments; used Snowflake Cortex to fix query bottlenecks.
-- Led the on-prem → cloud migration: ran the AWS-vs-Azure POC, audited hundreds of data processes, and drove phased waves through post-migration validation.
+- Built and owned dozens of **ETL/ELT ingestion pipelines** from APIs, S3, SharePoint, and internal/external databases.
+- Rewrote a **dbt** analytics pipeline, cutting runtime from **30 min to 6**.
+- Wrote reusable **Python** classes and **Airflow** orchestration patterns the team adopted; managed **Fivetran** connectors.
+- Owned **Snowflake administration & data governance** — roles, access control (RBAC), and production deployments; used **Snowflake Cortex** to fix query bottlenecks.
+- Led the **on-prem → AWS cloud migration**: ran the AWS-vs-Azure POC, audited hundreds of data processes, and drove phased migration waves through post-migration data validation.
 
 ### Certifications
 

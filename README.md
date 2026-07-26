@@ -15,14 +15,6 @@
 <a href="mailto:alexeyserdtse90@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/alexeyserdtse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/highlights-light.svg"/>
-  <img src="./assets/highlights.svg" alt="~7 years across the data stack · 130 TB Snowflake warehouse · dbt pipeline runtime cut from 30 min to 6" width="100%"/>
-</picture>
-
 </div>
 
 ## 🚀 About Me

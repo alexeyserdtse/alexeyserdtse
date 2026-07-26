@@ -15,6 +15,14 @@
 <a href="mailto:alexeyserdtse90@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/alexeyserdtse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/highlights-light.svg"/>
+  <img src="./assets/highlights.svg" alt="~7 years across the data stack · 130 TB Snowflake warehouse · dbt pipeline runtime cut from 30 min to 6" width="100%"/>
+</picture>
+
 </div>
 
 ## 🚀 About Me
@@ -25,6 +33,22 @@
 - 📊 I care about clean schemas, idempotent jobs, and pipelines that don't need babysitting.
 - 🌱 ~7 years across the data stack — started in data analysis, grew into data engineering.
 - 📍 Based in Israel.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/python.svg?color=%232A8BF2" alt="Python"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/postgresql.svg?color=%232A8BF2" alt="SQL"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/snowflake.svg?color=%232A8BF2" alt="Snowflake"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/databricks.svg?color=%232A8BF2" alt="Databricks"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/apachespark.svg?color=%232A8BF2" alt="Apache Spark"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/apacheairflow.svg?color=%232A8BF2" alt="Apache Airflow"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/dbt.svg?color=%232A8BF2" alt="dbt"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%232A8BF2" alt="AWS"/>&emsp;
+<img width="48" height="48" src="https://api.iconify.design/simple-icons/git.svg?color=%232A8BF2" alt="Git"/>
+
+</div>
 
 ## 💼 Experience
 
@@ -48,22 +72,6 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
 - SQL Server Developer — DataCamp (2021)
 - BI Developer — Technion (2019)
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/python.svg?color=%232A8BF2" alt="Python"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/postgresql.svg?color=%232A8BF2" alt="SQL"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/snowflake.svg?color=%232A8BF2" alt="Snowflake"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/databricks.svg?color=%232A8BF2" alt="Databricks"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/apachespark.svg?color=%232A8BF2" alt="Apache Spark"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/apacheairflow.svg?color=%232A8BF2" alt="Apache Airflow"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/dbt.svg?color=%232A8BF2" alt="dbt"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/amazonwebservices.svg?color=%232A8BF2" alt="AWS"/>&emsp;
-<img width="48" height="48" src="https://api.iconify.design/simple-icons/git.svg?color=%232A8BF2" alt="Git"/>
-
-</div>
-
 ## 📌 Featured Project
 
 <div align="center">
@@ -73,15 +81,6 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
       <img src="./assets/project-card.svg" alt="hm_retail_analytics — a dbt + DuckDB dimensional warehouse over 31.8M H&M transactions, modeled as a Kimball star with SCD2 price history and orchestrated by Airflow" width="90%"/>
     </picture>
   </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=F8FBFE&stroke=C7D8E8&ring=2E6498&fire=2A8BF2&currStreakNum=1B3E63&sideNums=1B3E63&currStreakLabel=2E6498&sideLabels=2E6498&dates=8FA8C0&cache_bust=20260726"/>
-    <img src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260726" alt="GitHub streak"/>
-  </picture>
 </div>
 
 <div align="center">

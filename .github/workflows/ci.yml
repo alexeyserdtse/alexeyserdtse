@@ -31,11 +31,8 @@ jobs:
           args: >-
             --no-progress
             --exclude 'linkedin.com'
-            --exclude 'github-readme-stats.vercel.app'
-            --exclude 'streak-stats.demolab.com'
             --exclude 'readme-typing-svg.demolab.com'
             --exclude 'capsule-render.vercel.app'
             --exclude 'api.iconify.design'
-            --exclude 'komarev.com'
             '**/*.md'
           fail: true

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Alexey Serdtse — Data Engineer" width="100%"/>
+<img src="./assets/hero.svg" alt="Alexey Serdtse — Big Data Engineer" width="100%"/>
 
 <br/>
 
@@ -67,12 +67,9 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td><img height="155" src="https://github-readme-stats.vercel.app/api?username=alexeyserdtse&show_icons=true&hide_border=true&border_radius=18&count_private=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&bg_color=1B3E63&title_color=8FD0FF&icon_color=9FC7EC&text_color=C7D8E8" alt="GitHub stats"/></td>
-    <td><img height="155" src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260613" alt="GitHub streak"/></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260726" alt="GitHub streak"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6498,100:1B3E63&height=100&section=footer" alt="" width="100%"/>

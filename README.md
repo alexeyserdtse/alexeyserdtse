@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Alexey Serdtse — Big Data Engineer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg"/>
+  <img src="./assets/hero.svg" alt="Alexey Serdtse — Big Data Engineer" width="100%"/>
+</picture>
 
 <br/>
 
@@ -18,8 +21,8 @@
 
 - 🛠️ **Big Data Engineer** at NAYA Technologies (part of EPAM) — I build data pipelines and lakehouse platforms end to end.
 - ⚡ Core stack: **Snowflake**, **Databricks**, **Spark**, **Airflow**, and **dbt**, on an **AWS** data lake (**S3**).
-- 🐍 Primary languages **Python** (including **PySpark**) and **SQL**, applied across ingestion, orchestration, transformation, and query optimization.
-- 📊 Focused on clean schemas, idempotent jobs, and reliable, well-monitored pipelines.
+- 🐍 **Python** (including **PySpark**) and **SQL** — from ingestion and orchestration to query tuning.
+- 📊 I care about clean schemas, idempotent jobs, and pipelines that don't need babysitting.
 - 🌱 ~7 years across the data stack — started in data analysis, grew into data engineering.
 - 📍 Based in Israel.
 
@@ -27,7 +30,7 @@
 
 **Big Data Engineer** · NAYA Technologies (part of EPAM) — Israel · Feb 2026 – Present
 
-Building data solutions on **Databricks** and **AWS**.
+Building lakehouse platforms on **Databricks** and **AWS**.
 
 **Data Engineer** · NICE Ltd (via Outstaff) — Ra'anana, Israel · Sep 2022 – Feb 2026
 
@@ -35,7 +38,7 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
 
 - Built and owned dozens of ingestion pipelines from APIs, S3, SharePoint, and internal/external databases.
 - Rewrote a dbt analytics pipeline, cutting runtime from **30 min to 6**.
-- Built reusable Python classes and Airflow patterns adopted across the team; managed Fivetran connectors.
+- Wrote reusable Python classes and Airflow patterns the team adopted; managed Fivetran connectors.
 - Owned Snowflake administration & governance — roles, access, and production deployments; used Snowflake Cortex to fix query bottlenecks.
 - Led the on-prem → cloud migration: ran the AWS-vs-Azure POC, audited hundreds of data processes, and drove phased waves through post-migration validation.
 
@@ -63,12 +66,22 @@ Part of a 6-person team running a **130 TB** Snowflake warehouse — joined as t
 
 ## 📌 Featured Project
 
-**[UdemyFormula1](https://github.com/alexeyserdtse/UdemyFormula1)** — an Azure Databricks + Spark pipeline that ingests Formula 1 race data and models it through a bronze → silver → gold lakehouse architecture.
+<div align="center">
+  <a href="https://github.com/alexeyserdtse/hm_retail_analytics">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-card-light.svg"/>
+      <img src="./assets/project-card.svg" alt="hm_retail_analytics — a dbt + DuckDB dimensional warehouse over 31.8M H&M transactions, modeled as a Kimball star with SCD2 price history and orchestrated by Airflow" width="90%"/>
+    </picture>
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260726" alt="GitHub streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=F8FBFE&stroke=C7D8E8&ring=2E6498&fire=2A8BF2&currStreakNum=1B3E63&sideNums=1B3E63&currStreakLabel=2E6498&sideLabels=2E6498&dates=8FA8C0&cache_bust=20260726"/>
+    <img src="https://streak-stats.demolab.com/?user=alexeyserdtse&hide_border=true&border_radius=18&background=1B3E63&stroke=2E6498&ring=8FD0FF&fire=9FD0FF&currStreakNum=F2F7FC&sideNums=C7D8E8&currStreakLabel=8FD0FF&sideLabels=9FC7EC&dates=8FA8C0&cache_bust=20260726" alt="GitHub streak"/>
+  </picture>
 </div>
 
 <div align="center">

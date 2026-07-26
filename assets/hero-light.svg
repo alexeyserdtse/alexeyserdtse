@@ -2,24 +2,21 @@
   <style>@media (prefers-reduced-motion: reduce) { .flow { display: none; } }</style>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2E6498"/>
-      <stop offset="1" stop-color="#1B3E63"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8FD0FF"/>
-      <stop offset="1" stop-color="#5FA8E8"/>
+      <stop offset="0" stop-color="#F8FBFE"/>
+      <stop offset="1" stop-color="#E4EEF8"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.22" cy="0.12" r="0.65">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2A8BF2" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#2A8BF2" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect width="1000" height="250" rx="20" fill="url(#bg)"/>
   <rect width="1000" height="250" rx="20" fill="url(#glow)"/>
+  <rect x="0.75" y="0.75" width="998.5" height="248.5" rx="19.25" fill="none" stroke="#C7D8E8" stroke-width="1.5"/>
 
   <!-- soft pipeline motif -->
-  <g fill="none" stroke="#9FC7EC" stroke-opacity="0.45" stroke-width="2.5" stroke-linecap="round">
+  <g fill="none" stroke="#2A8BF2" stroke-opacity="0.45" stroke-width="2.5" stroke-linecap="round">
     <path id="p1" d="M792 125 C 820 105, 832 95, 856 88"/>
     <path id="p2" d="M792 125 C 820 145, 832 155, 856 162"/>
     <path id="p3" d="M856 88 C 884 95, 898 108, 920 125"/>
@@ -28,40 +25,40 @@
 
   <!-- data-flow dots (hidden when prefers-reduced-motion) -->
   <g class="flow">
-    <circle r="3" fill="#BFE0FF" opacity="0">
+    <circle r="3" fill="#2A8BF2" opacity="0">
       <animateMotion dur="3.2s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#p1"/></animateMotion>
       <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="3.2s" begin="0s" repeatCount="indefinite"/>
     </circle>
-    <circle r="3" fill="#BFE0FF" opacity="0">
+    <circle r="3" fill="#2A8BF2" opacity="0">
       <animateMotion dur="3.2s" begin="1.6s" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion>
       <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="3.2s" begin="1.6s" repeatCount="indefinite"/>
     </circle>
-    <circle r="3" fill="#DCEEFF" opacity="0">
+    <circle r="3" fill="#2E6498" opacity="0">
       <animateMotion dur="3.2s" begin="0.8s" repeatCount="indefinite"><mpath xlink:href="#p3"/></animateMotion>
       <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="3.2s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
-    <circle r="3" fill="#DCEEFF" opacity="0">
+    <circle r="3" fill="#2E6498" opacity="0">
       <animateMotion dur="3.2s" begin="2.4s" repeatCount="indefinite"><mpath xlink:href="#p4"/></animateMotion>
       <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="3.2s" begin="2.4s" repeatCount="indefinite"/>
     </circle>
   </g>
 
   <g>
-    <circle cx="792" cy="125" r="8" fill="#1B3E63" stroke="#9FD0FF" stroke-width="2.5"/>
-    <circle cx="856" cy="88"  r="8" fill="#1B3E63" stroke="#BFE0FF" stroke-width="2.5"/>
-    <circle cx="856" cy="162" r="8" fill="#1B3E63" stroke="#BFE0FF" stroke-width="2.5"/>
-    <circle cx="920" cy="125" r="8" fill="#8FD0FF" stroke="#DCEEFF" stroke-width="2.5"/>
+    <circle cx="792" cy="125" r="8" fill="#FFFFFF" stroke="#2E6498" stroke-width="2.5"/>
+    <circle cx="856" cy="88"  r="8" fill="#FFFFFF" stroke="#5FA8E8" stroke-width="2.5"/>
+    <circle cx="856" cy="162" r="8" fill="#FFFFFF" stroke="#5FA8E8" stroke-width="2.5"/>
+    <circle cx="920" cy="125" r="8" fill="#2A8BF2" stroke="#8FD0FF" stroke-width="2.5"/>
   </g>
 
   <!-- soft pulse on the sink node (hidden when prefers-reduced-motion) -->
-  <circle class="flow" cx="920" cy="125" r="8" fill="none" stroke="#8FD0FF" stroke-width="2" opacity="0">
+  <circle class="flow" cx="920" cy="125" r="8" fill="none" stroke="#2A8BF2" stroke-width="2" opacity="0">
     <animate attributeName="r" values="8;17" dur="2.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0" dur="2.8s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="64" y="84" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="14" letter-spacing="3" fill="#9FD0FF">// BIG DATA ENGINEER</text>
+  <text x="64" y="84" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="14" letter-spacing="3" fill="#2A8BF2">// BIG DATA ENGINEER</text>
 
-  <text x="62" y="144" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="600" fill="#F2F7FC">Alexey Serdtse</text>
-  <text x="64" y="184" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#C7D8E8">I build reliable data platforms that turn raw events into clear decisions.</text>
+  <text x="62" y="144" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="600" fill="#1B3E63">Alexey Serdtse</text>
+  <text x="64" y="184" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#2E6498">I build reliable data platforms that turn raw events into clear decisions.</text>
   <text x="64" y="218" font-family="SFMono-Regular, ui-monospace, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#8FA8C0">python · sql · snowflake · databricks · airflow · dbt · aws</text>
 </svg>
